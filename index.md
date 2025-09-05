@@ -3,7 +3,7 @@
 
 # ceng-mlcv's Website
 
-An engaging 1-3 sentence description of your lab.
+MLCV research group develops advanced AI, AR/VR, and image processing models for real-world problems. Our goal is to convert cutting-edge research into high-impact applications that redefine the user experience. Our agile team consists of faculty members, research assistants, and a talented group of postgraduate and undergraduate students, ensuring a dedicated workforce to handle challenging research projects.
 
 {% include section.html %}
 
