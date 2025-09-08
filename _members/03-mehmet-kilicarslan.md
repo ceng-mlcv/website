@@ -4,7 +4,7 @@ image: images/photo.jpg
 #role: principal-investigator
 affiliation: Eskisehir Technical University
 links:
-  home-page: [https://akademik.eskisehir.edu.tr/serkangunal](https://mkilicar.github.io/)
+  home-page: https://mkilicar.github.io
   orcid: 0000-0002-7212-5262
 ---
 
