@@ -4,7 +4,7 @@ image: images/serkan_gunal.png
 role: principal-investigator
 affiliation: Eskisehir Technical University
 links:
-  home-page: [https://janesmith.com](https://akademik.eskisehir.edu.tr/serkangunal)
+  home-page: https://akademik.eskisehir.edu.tr/serkangunal
   orcid: 0000-0002-9691-1575
 ---
 
