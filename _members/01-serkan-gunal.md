@@ -1,7 +1,7 @@
 ---
 name: Prof. Dr. Serkan Gunal
 image: images/serkan_gunal.png
-role: principal-investigator
+#role: principal-investigator
 affiliation: Eskisehir Technical University
 links:
   home-page: https://akademik.eskisehir.edu.tr/serkangunal
