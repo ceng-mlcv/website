@@ -1,5 +1,5 @@
 ---
-name: Emrah Demir
+name: Res. Asst. Emrah Demir
 image: images/photo.jpg
 role: phd
 group: alum
