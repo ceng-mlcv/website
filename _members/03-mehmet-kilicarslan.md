@@ -1,6 +1,6 @@
 ---
 name: Asst. Prof. Dr. Mehmet Kilicarslan
-image: images/photo.jpg
+image: images/mehmet_kilicarslan.jpg
 #role: principal-investigator
 affiliation: Eskisehir Technical University
 links:
