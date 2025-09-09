@@ -1,8 +1,8 @@
 ---
-name: Res. Asst. Berkay Onk
+name: Res. Asst. Emrah Demir
 image: images/photo.jpg
-role: msc
+role: phd
+group: alum
 links:
   github: john-doe
 ---
-
